@@ -52,5 +52,3 @@ const aboutMe = () => ({
 ```
 
 ### Feel free to contribute ✌️
-
-[![Visits Badge](https://badges.pufler.dev/visits/gitego-brian)](https://badges.pufler.dev)
