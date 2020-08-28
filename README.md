@@ -12,21 +12,19 @@ const aboutMe = () => ({
         css: true,
         javascript: true,
         reactjs: true,
-        nextjs: true,
         materialUI: true,
       },
       backEnd: {
         nodejs: true,
         express: true,
         postgresql: true,
+        firebase: true,
       },
       tdd: {
-        mocha: true,
-        chai: true,
-        jest: true,
+        mocha/chai: true,
       },
       versionControl: {
-        git: true,
+        git/github: true,
       },
       projectMgt: {
         pivotalTracker: true,
