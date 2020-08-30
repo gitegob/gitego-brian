@@ -17,24 +17,28 @@ const aboutMe = () => ({
       backEnd: {
         nodejs: true,
         express: true,
-        postgresql: true,
-        firebase: true,
       },
+      database: {
+      	postgresql: true,
+        mongodb_mongoose: true
+       },
       tdd: {
-        mocha/chai: true,
+        mocha_chai: true,
+        jest_supertest: true
       },
       versionControl: {
-        git/github: true,
+        git: true,
+        github: true,
       },
       projectMgt: {
         pivotalTracker: true,
       },
       misc: {
         heroku: true,
-        GNU/Linux: true,
+        GNU_Linux: true,
       }
     },
-    likes: {
+    hobbies: {
       music: true,
       anime: true,
       beatMaking: true,
