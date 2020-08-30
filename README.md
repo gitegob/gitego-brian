@@ -22,7 +22,7 @@ const aboutMe = () => ({
       	postgresql: true,
         mongodb_mongoose: true
        },
-      tdd: {
+      testing: {
         mocha_chai: true,
         jest_supertest: true
       },
