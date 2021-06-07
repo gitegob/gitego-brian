@@ -16,7 +16,7 @@ const aboutMe = () => ({
       projectMgt: ['pivotalTracker', 'jira'],
       misc: ['heroku', 'GNU_Linux']
     },
-    hobbies: [' music', 'anime', 'beatMaking', 'soccer'],
+    hobbies: [' music', 'anime', 'beatMaking', 'football'],
     contactMe: {
       phone:'+250785721391',
       email: 'gitegob7@gmail.com',
