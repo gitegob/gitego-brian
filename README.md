@@ -48,7 +48,7 @@ const aboutMe = () => ({
     contactMe: {
       phone:'+250785721391',
       email: 'gitegob7@gmail.com',
-      twitter: 'gbrian98',
+      twitter: 'gitego_brian',
       linkedIn: 'brian-gitego'
     }
   });
