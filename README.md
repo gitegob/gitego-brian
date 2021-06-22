@@ -8,15 +8,22 @@ const aboutMe = () => ({
   pronoun: 'Him' || 'He',
   location: 'Kigali, Rwanda',
   dev:{
-      frontEnd: ['html', 'css', 'javascript', 'reactJS', 'antDesign', 'materialUI' ],
-      backEnd: ['nodeJS', 'expressJS', 'nestJS', 'java_springBoot'],
-      database: ['postgresql', 'mongodb_mongoose', 'sqlite'],
-      testing: ['mocha_chai', 'jest_supertest'],
-      versionControl: ['git'],
-      projectMgt: ['pivotalTracker', 'jira'],
-      misc: ['heroku', 'GNU_Linux']
+      frontEnd:{
+        languages: ['HTML', 'CSS', 'Javascript', 'Typescript'],
+        frameworks: ['React.js', 'Next.js'],
+        libraries: ['Bootstrap', 'Material-UI']
+      },
+      backEnd:{
+        languages: ['Javascript', 'Typescript', 'Java', 'Kotlin'],
+        frameworks: ['Expressjs', 'Nestjs', 'Spring Boot']
+      },
+      database: ['PostgreSQL', 'MongoDB & Mongoose', 'SQLite'],
+      testing: ['Mocha & Chai', 'Jest & Supertest'],
+      versionControl: ['Git'],
+      projectMgt: ['Pivotal Tracker', 'Jira'],
+      misc: ['Heroku', 'GNU_Linux']
     },
-    hobbies: [' music', 'anime', 'beatMaking', 'football'],
+    hobbies: [' Music', 'Anime', 'Beat Making', 'Football'],
     contactMe: {
       phone:'+250785721391',
       email: 'gitegob7@gmail.com',
