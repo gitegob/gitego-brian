@@ -33,4 +33,13 @@ const aboutMe = () => ({
   });
 ```
 
+<br />
+
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Issa Jean Marie's github stats](https://github-readme-stats.vercel.app/api?username=issajeanmarie&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/issajeanmarie)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issajeanmarie&show_icons=true&langs_count=10&theme=dark&layout=compact&hide_title=true)](https://github.com/issajeanmarie)|![issajeanmarie](https://github-readme-streak-stats.herokuapp.com/?user=issajeanmarie&theme=dark)
+
+<br />
+
+
 ### Feel free to contribute ✌️
