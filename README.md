@@ -14,8 +14,8 @@ const aboutMe = () => ({
         libraries: ['Bootstrap', 'Material-UI']
       },
       backEnd:{
-        languages: ['Javascript', 'Typescript', 'Java', 'Kotlin'],
-        frameworks: ['Expressjs', 'Nestjs', 'Spring Boot']
+        languages: ['Javascript', 'Typescript', 'Java', 'Kotlin','Python'],
+        frameworks: ['Expressjs', 'Nestjs', 'Spring Boot','Django']
       },
       database: ['PostgreSQL', 'MongoDB & Mongoose', 'SQLite'],
       testing: ['Mocha & Chai', 'Jest & Supertest'],
