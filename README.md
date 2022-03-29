@@ -15,7 +15,7 @@ const aboutMe = () => ({
       },
       backEnd:{
         languages: ['Javascript', 'Typescript', 'Java', 'Kotlin', 'Python'],
-        frameworks: ['Expressjs', 'Nestjs', 'Spring Boot', 'Django']
+        frameworks: ['Expressjs', 'NestJS', 'Spring Boot', 'Django']
       },
       database: ['PostgreSQL', 'MongoDB & Mongoose', 'SQLite'],
       testing: ['Mocha & Chai', 'Jest & Supertest'],
