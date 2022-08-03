@@ -11,13 +11,13 @@ const aboutMe = () => ({
       frontEnd:{
         languages: ['HTML', 'CSS', 'Javascript', 'Typescript'],
         frameworks: ['React.js', 'Next.js'],
-        libraries: ['Bootstrap', 'Material-UI']
+        libraries: ['Bootstrap', 'Material UI', 'Tailwind CSS']
       },
       backEnd:{
-        languages: ['Javascript', 'Typescript', 'Java', 'Kotlin', 'Python'],
-        frameworks: ['Expressjs', 'NestJS', 'Spring Boot', 'Django']
+        languages: ['Javascript', 'Typescript', 'Java', 'Kotlin', 'Python', 'C#'],
+        frameworks: ['Expressjs', 'NestJS', 'Spring Boot', 'Django', '.NET Framework']
       },
-      database: ['PostgreSQL', 'MongoDB & Mongoose', 'SQLite'],
+      database: ['PostgreSQL & TypeORM', 'MongoDB & Mongoose', 'SQLite'],
       testing: ['Mocha & Chai', 'Jest & Supertest'],
       versionControl: ['Git'],
       projectMgt: ['Pivotal Tracker', 'Jira'],
